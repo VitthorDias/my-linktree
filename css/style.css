@@ -26,12 +26,14 @@ main {
     background-color: #d3b3cd;
     padding: 20px;
     border-radius: 20px;
+    border: solid 3px #ff00f2;
 }
 
 /* HEADER */
 img {
     width: 35%;
     border-radius: 50%;
+    border: solid 2px black;
 }
 
 .header {
@@ -53,6 +55,7 @@ img {
     margin: 1rem 0rem 1rem 0rem;
     padding: 1rem 10rem;
     border-radius: 0.625rem;
+    border: solid 2px #00ff80;
 }
 
 .link:hover {
